@@ -1,2 +1,2 @@
-# coursera_web_development
+# coursera_web_dev
 Coursera Web Development Course
